@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jommyz</h1>
-<h3 align="center">I'm fullstack developer (Node js, Flutter)</h3>
-
 <h2>Profile Overview</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonespace&show_icons=true&locale=en" alt="alonespace" /></p>
 
