@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jommyz</h1>
 <h3 align="center">I'm fullstack developer (Node js, Flutter)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alonespace" alt="alonespace" /></a> </p>
-
 - 🔭 I’m currently working on **Software developer freelance**
 
 - 🌱 I’m currently learning **Everything in the world!!!**
@@ -12,6 +10,10 @@
 - 📫 How to reach me **work.alonecoding@gmail.com**
 
 - ⚡ Fun fact **I'm husky 🦮**
+
+
+<h3>My trophy</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alonespace" alt="alonespace" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
