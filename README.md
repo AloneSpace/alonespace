@@ -1,5 +1,5 @@
 <h2>Profile Overview</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonespace&show_icons=true&locale=en" alt="alonespace" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonespace&show_icons=true&locale=en&theme=radical" alt="alonespace" /></p>
 
 
 - 🔭 I’m currently working on **Software developer freelance**
