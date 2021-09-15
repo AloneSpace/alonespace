@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Everything in the world!!!**
 
-- 👯 I’m looking to **Girlfriend 👀**
-
 - 📫 How to reach me **work.alonecoding@gmail.com**
 
 - ⚡ Fun fact **I'm husky 🦮**
