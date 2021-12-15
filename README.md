@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Everything in the world!!!**
 
-- 📫 How to reach me **work.alonecoding@gmail.com**
+- 📫 How to reach me **work@alonecoding.com**
 
 - ⚡ Fun fact **I'm husky 🦮**
 
