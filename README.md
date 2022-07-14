@@ -26,7 +26,7 @@
   - **Javascript:** Express.js, Fastify
   - **TypeScript:** Nest.js
 - Cross platform application
-  - **Mobile:** Flutter
+  - **Dart:** Flutter
 - Database
   - **SQL:** MySQL, MariaDB
   - **NOSQL:** Firebase, Mongodb
