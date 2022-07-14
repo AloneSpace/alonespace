@@ -11,7 +11,7 @@
 
 <h2>Work experiece</h2>
 
-- Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a> | **(Jun 2020 - Now)**
+- Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a>    |   **(Jun 2020 - Now)**
   - Develops web apps from scratch (XD, Figma) to build production using Nuxt.js, Express.js
   - Work with small teams and divide the work into different parts
 
