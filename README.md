@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm husky 🦮**
 
-<h2>Work experiece (2 yrs experience on **JavaScript, TypeScript**)</h2>
+<h2>Work experiece (2 yrs experience on JavaScript, TypeScript)</h2>
 
 - Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a>    |   **(Jun 2020 - Now)**
   - Develops web apps from scratch (XD, Figma) to build production using Nuxt.js, Express.js
