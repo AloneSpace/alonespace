@@ -9,10 +9,10 @@
 
 - ⚡ Fun fact **I'm husky 🦮**
 
-<h2>💼 Work experiece (2-year experience on JavaScript, TypeScript)</h2>
+<h2>💼 Work experiece (2-year experience on Full stack developer)</h2>
 
 - Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a>    |   **(Jun 2020 - Now)**
-  - Develops web apps from scratch (XD, Figma) to build production using Nuxt.js, Express.js
+  - Develops web apps from scratch (XD, Figma) to build production using Nuxt.js, Express.js and delivered to customer
   - Work with small teams and divide the work into different parts
 
 <h2>🖥️ My tech stack</h2>
@@ -31,9 +31,11 @@
   - **SQL:** MySQL, MariaDB
   - **NoSQL:** Firebase, Mongodb
 - Others
+  - **BaaS: Digital Oceans, Firebase
   - **OS**: Linux x86 (Ubuntu)
   - **Container**: Docker
   - **API Gateway**: Kong, Konga
+  - **Network: Cloudflare
 
 <h2>🏆 My trophy</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alonespace" alt="alonespace" /></a> </p>
