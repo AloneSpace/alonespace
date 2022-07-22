@@ -31,11 +31,11 @@
   - **SQL:** MySQL, MariaDB
   - **NoSQL:** Firebase, Mongodb
 - Others
-  - **BaaS: Digital Oceans, Firebase
+  - **BaaS**: Digital Oceans, Firebase
   - **OS**: Linux x86 (Ubuntu)
   - **Container**: Docker
   - **API Gateway**: Kong, Konga
-  - **Network: Cloudflare
+  - **Network**: Cloudflare
 
 <h2>🏆 My trophy</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alonespace" alt="alonespace" /></a> </p>
