@@ -1,4 +1,4 @@
-<h2>Profile Overview</h2>
+<h2>👋 Profile Overview</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonespace&show_icons=true&locale=en&theme=radical" alt="alonespace" /></p>
 
 - 🔭 I’m currently working on **Software developer freelance**
@@ -9,13 +9,13 @@
 
 - ⚡ Fun fact **I'm husky 🦮**
 
-<h2>Work experiece (2 yrs experience on JavaScript, TypeScript)</h2>
+<h2>💼 Work experiece (2-year experience on JavaScript, TypeScript)</h2>
 
 - Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a>    |   **(Jun 2020 - Now)**
   - Develops web apps from scratch (XD, Figma) to build production using Nuxt.js, Express.js
   - Work with small teams and divide the work into different parts
 
-<h2>My tech stack</h2>
+<h2>🖥️ My tech stack</h2>
 
 - Languages
   - JavaScript, TypeScript, Dart, HTML, CSS
@@ -35,7 +35,7 @@
   - **Container**: Docker
   - **API Gateway**: Kong, Konga
 
-<h2>My trophy</h2>
+<h2>🏆 My trophy</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alonespace" alt="alonespace" /></a> </p>
 
 <!-- <h2 align="left">Languages and Tools:</h3>
