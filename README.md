@@ -29,7 +29,7 @@
   - **Dart:** Flutter
 - Database
   - **SQL:** MySQL, MariaDB
-  - **NOSQL:** Firebase, Mongodb
+  - **NoSQL:** Firebase, Mongodb
 - Others
   - **OS**: Linux x86 (Ubuntu)
   - **Container**: Docker
