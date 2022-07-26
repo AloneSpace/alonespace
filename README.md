@@ -11,6 +11,11 @@
 
 <h2>💼 Work experiece (2-year experience on Full stack developer)</h2>
 
+- Team lead freelance developer @ <a href="https://plaintechlab.com/">Plaintech Lab</a>    |   **(Jun 2022 - Now)**
+  - Reviewing business/functional requirements and transalate to technical application
+  - Apply technology that our team chooses to use. to be applied to the work system
+  - Delivering valuable advice, guidance and thought client how to use of this technology. 
+   
 - Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a>    |   **(Jun 2020 - Now)**
   - Develops web apps from scratch (XD, Figma) to build production using Nuxt.js, Express.js and delivered to customer
   - Work with small teams and divide the work into different parts
