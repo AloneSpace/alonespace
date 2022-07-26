@@ -1,6 +1,8 @@
 <h2>👋 Profile Overview</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonespace&show_icons=true&locale=en&theme=radical" alt="alonespace" /></p>
 
+I am a freelancer (Full Stack developer) to built website and mobile application development by customer's requirements. I've 2 years work experience. I can apply my knowledge and skill to be highly motivated for continuous learning and improvement.
+
 - 🔭 I’m currently working on **Software developer freelance**
 
 - 🌱 I’m currently learning **Everything in the world!!!**
