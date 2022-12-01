@@ -7,7 +7,7 @@ I am a freelancer (Full Stack developer) to built website and mobile application
 
 - 🌱 I’m currently learning **Everything in the world!!!**
 
-- 📫 How to reach me **work@alonecoding.com**
+- 📫 How to reach me **karunpat.pro@gmail.com**
 
 - ⚡ Fun fact **I'm husky 🦮**
 
