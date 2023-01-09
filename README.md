@@ -11,14 +11,19 @@ I am a freelancer (Full Stack developer) to built website and mobile application
 
 - ⚡ Fun fact **I'm husky 🦮**
 
-<h2>💼 Work experiece (2-year experience on Full stack developer)</h2>
+<h2>💼 Work experiece (3-year experience on Full stack developer)</h2>
 
-- Team lead freelance developer @ <a href="https://plaintechlab.com/">Plaintech Lab</a>    |   **(Jun 2022 - Now)**
+- Software Engineer (Intern) @ <a href="https://www.agoda.com">Agoda Lab</a>    |   **(January 2023 - Now)**
+  - Develop top-notch and/or enhance finance payout processing in Agoda
+  - Use state-of-the-art languages like Scala and C#, Data technologies like Kafka and Spark, and Agile development practices
+  - Employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime
+
+- Team lead freelance developer @ <a href="https://plaintechlab.com/">Plaintech Lab</a>    |   **(June 2022 - January 2023)**
   - Reviewing business/functional requirements and transalate to technical application
   - Apply technology that our team chooses to use. to be applied to the work system
   - Delivering valuable advice, guidance and thought client how to use of this technology. 
    
-- Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a>    |   **(Jun 2020 - Now)**
+- Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a>    |   **(June 2020 - January 2023)**
   - Develops web apps from scratch (XD, Figma) to build production using Nuxt.js, Express.js and delivered to customer
   - Work with small teams and divide the work into different parts
 
