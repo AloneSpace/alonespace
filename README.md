@@ -13,7 +13,7 @@ I am a freelancer (Full Stack developer) to built website and mobile application
 
 <h2>💼 Work experiece (3-year experience on Full stack developer)</h2>
 
-- Software Engineer (Intern) @ <a href="https://www.agoda.com">Agoda</a>    |   **(January 2023 - Now)**
+- Software Engineer (Intern) @ <a href="https://www.agoda.com">Agoda</a>    |   **(January 2023 - July 2023)**
   - Develop top-notch and/or enhance finance payout processing in Agoda
   - Use state-of-the-art languages like Scala and C#, Data technologies like Kafka and Spark, and Agile development practices
   - Employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime
