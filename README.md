@@ -1,5 +1,5 @@
 <h2>👋 Profile Overview</h2>
-I am a freelancer (Full Stack developer) to built website and mobile application development by customer's requirements. I've 2 years work experience. I can apply my knowledge and skill to be highly motivated for continuous learning and improvement.
+I am a freelancer (Full Stack developer) to built website and mobile application development by customer's requirements. I've 3 years work experience. I can apply my knowledge and skill to be highly motivated for continuous learning and improvement.
 
 <br /><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonespace&show_icons=true&locale=en&theme=radical" alt="alonespace" /></p>
 
@@ -13,15 +13,15 @@ I am a freelancer (Full Stack developer) to built website and mobile application
 
 <h2>💼 Work experiece (3-year experience on Full stack developer)</h2>
 
+- Full Stack Developer (Freelance) @ <a href="https://plaintechlab.com/">Plaintech Lab</a>    |   **(July 2023 - Now)**
+  - Reviewing business/functional requirements and transalate to technical application
+  - Apply technology that our team chooses to use. to be applied to the work system
+  - Delivering valuable advice, guidance and thought client how to use of this technology. 
+
 - Software Engineer (Intern) @ <a href="https://www.agoda.com">Agoda</a>    |   **(January 2023 - July 2023)**
   - Develop top-notch and/or enhance finance payout processing in Agoda
   - Use state-of-the-art languages like Scala and C#, Data technologies like Kafka and Spark, and Agile development practices
   - Employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime
-
-- Team lead freelance developer @ <a href="https://plaintechlab.com/">Plaintech Lab</a>    |   **(June 2022 - January 2023)**
-  - Reviewing business/functional requirements and transalate to technical application
-  - Apply technology that our team chooses to use. to be applied to the work system
-  - Delivering valuable advice, guidance and thought client how to use of this technology. 
    
 - Full Stack Developer (Freelance) @ <a href="https://fastwork.co/user/alonespace">Fastwork</a>    |   **(June 2020 - January 2023)**
   - Develops web apps from scratch (XD, Figma) to build production using Nuxt.js, Express.js and delivered to customer
