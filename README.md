@@ -13,6 +13,9 @@ I am a freelancer (Full Stack developer) to built website and mobile application
 
 <h2>💼 Work experiece (3-year experience on Full stack developer)</h2>
 
+- Full Stack Developer (Full time) @ <a href="https://plaintechlab.com/">Opsta</a>    |   **(June 2024 - Now)**
+  - In processing...
+
 - Full Stack Developer (Freelance) @ <a href="https://plaintechlab.com/">Plaintech Lab</a>    |   **(July 2023 - Now)**
   - Reviewing business/functional requirements and transalate to technical application
   - Apply technology that our team chooses to use. to be applied to the work system
