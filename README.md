@@ -14,7 +14,11 @@ I am a freelancer (Full Stack developer) to built website and mobile application
 <h2>💼 Work experiece (3-year experience on Full stack developer)</h2>
 
 - Full Stack Developer (Full time) @ <a href="https://plaintechlab.com/">Opsta</a>    |   **(June 2024 - Now)**
-  - In processing...
+  - Developed frontend applications using Next.js and backend systems using Django, along with multiple
+microservices built with Golang.
+  - Leveraged knowledge of Kubernetes (K8s), Docker, and container orchestration to enhance the project.
+  - Familiar with various DevOps tools used within the system, including Helm, ArgoCD, and GitLab
+Pipeline.
 
 - Full Stack Developer (Freelance) @ <a href="https://plaintechlab.com/">Plaintech Lab</a>    |   **(July 2023 - Now)**
   - Reviewing business/functional requirements and transalate to technical application
